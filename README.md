@@ -240,10 +240,10 @@
     </table>
     <h2>Contact Me:</h2>
     <ul>
-      <li> <h3><a href="mailto:jamalirazabali112266@gmail.com">Email</a> </h3></li>
+      <li> <h3><a href="mailto:jamaliraza325@gmail.com">Email</a> </h3></li>
       <li> <h3><a href="https://wa.me/923186791421">What's App</a> </h3></li>
     </ul>
-    <form action="mailto:jamalirazabali112266@gmail.com" method="post" enctype="text/plain">
+    <form action="mailto:jamaliraza325@gmail.com" method="post" enctype="text/plain">
       <h2>Your Message:</h2>
       <textarea name="" rows="10" cols="30"></textarea>
       <br>
