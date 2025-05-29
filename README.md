@@ -1,255 +1,173 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-  <head>
+<head>
     <meta charset="utf-8">
-    <title>Online Work</title>
-  <style>
-  /* General Styles */
-  body {
-    background-color: GhostWhite;
-    font-family: "Sofia", sans-serif;
-    font-size: 30px;
-  }
+    <title>Lead Generation Expert</title>
+    <style>
+        /* General Styles */
+        body {
+            background-color: #f9f9f9;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
 
-  hr {
-    border: none;
-    height: 2px;
-    background-color: Gray;
-    margin: 20px 0;
-  }
+        header {
+            background-color: #4fa6ff;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
 
-  h1 {
-    font: italic small-caps bold 12px/30px Georgia, serif;
-    color: Maroon;
-    font-size: 2.5rem;
-  }
+        h1 {
+            font-size: 2.5rem;
+            margin: 0;
+        }
 
-  h2 {
-    font-family: "Serif", sans-serif;
-    width: auto;
-    background-color: Black;
-    color: yellow;
-    font-size: 1.8rem;
-  }
+        nav {
+            margin: 20px 0;
+        }
 
-  h3 {
-    color: black;
-    font-size: 1.2rem;
-  }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
 
-  p {
-    margin: 10px 0;
-  }
+        nav a:hover {
+            text-decoration: underline;
+        }
 
-  a {
-    color: DodgerBlue;
-    text-decoration: none;
-    font-weight: italic;
-  }
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
 
-  a:hover {
-    color: Moccasin;
-    text-decoration: underline;
-  }
+        h2 {
+            color: #4fa6ff;
+            font-size: 1.8rem;
+        }
 
-  ul {
-    padding-left: 20px;
-  }
+        p {
+            line-height: 1.6;
+        }
 
-  /* Center Alignment for Main Content */
-  center, .center-content {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    margin: 20px;
-  }
+        ul {
+            padding-left: 20px;
+        }
 
-  /* Table Styles */
-  table {
-    width: 80%;
-    margin: 20px auto;
-    border-collapse: collapse;
-  }
+        .services, .testimonials {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
 
-  table thead th {
-    background: NavajoWhite;
-    color: red;
-    padding: 10px;
-    text-align: left;
-    width: 70%;
-  }
+        .service, .testimonial {
+            flex: 1;
+            margin: 10px;
+            padding: 20px;
+            background: #f0f0f0;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            max-width: 30%;
+        }
 
-  table tbody td {
-    border-bottom: 1px solid red;
-    padding: 10px;
-    color: black;
-    font-size: 1.8rem;
-  }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #4fa6ff;
+            color: white;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
 
-  table tbody tr:hover {
-    background: BlanchedAlmond;
-  }
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .service, .testimonial {
+                max-width: 100%;
+            }
 
-  img {
-    border-radius: 10px;
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.6);
-  }
+            nav {
+                display: block;
+            }
 
-  /* Buttons */
-  input[type="submit"] {
-    background: #4fa6ff;
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    font-size: 1.2rem;
-    cursor: pointer;
-    border-radius: 5px;
-    transition: background 0.3s ease;
-  }
+            nav a {
+                display: block;
+                margin: 10px 0;
+            }
+        }
+    </style>
+</head>
+<body>
 
-  input[type="submit"]:hover {
-    background: #1a75d3;
-  }
+<header>
+    <h1>Ali Raza - Lead Generation Expert</h1>
+    <nav>
+        <a href="#services">Services</a>
+        <a href="#testimonials">Testimonials</a>
+        <a href="#contact">Contact</a>
+    </nav>
+</header>
 
-  /* Responsive Design */
-  @media (max-width: 768px) {
-    h1 {
-      font-size: 2rem;
-    }
+<section id="about">
+    <h2>About Me</h2>
+    <p>I am Ali Raza, a dedicated lead generation expert with years of experience in helping businesses grow. I specialize in tailored strategies that deliver results.</p>
+</section>
 
-    h2 {
-      font-size: 1.5rem;
-    }
+<section id="services">
+    <h2>Services Offered</h2>
+    <div class="services">
+        <div class="service">
+            <h3>Lead Generation</h3>
+            <p>High-quality leads tailored to your business needs.</p>
+        </div>
+        <div class="service">
+            <h3>Market Research</h3>
+            <p>In-depth analysis to target the right audience.</p>
+        </div>
+        <div class="service">
+            <h3>Consulting</h3>
+            <p>Expert advice to optimize your lead generation strategy.</p>
+        </div>
+    </div>
+</section>
 
-    img {
-      width: 100%;
-      height: auto;
-    }
+<section id="testimonials">
+    <h2>What Clients Say</h2>
+    <div class="testimonials">
+        <div class="testimonial">
+            <p>"Ali's lead generation strategies have transformed our sales process!"</p>
+            <strong>- Client A</strong>
+        </div>
+        <div class="testimonial">
+            <p>"We've seen a significant increase in qualified leads since working with Ali."</p>
+            <strong>- Client B</strong>
+        </div>
+        <div class="testimonial">
+            <p>"Professional and results-driven. Highly recommend!"</p>
+            <strong>- Client C</strong>
+        </div>
+    </div>
+</section>
 
-    table {
-      width: 100%;
-      font-size: 0.9rem;
-    }
-
-    .center-content {
-      padding: 10px;
-    }
-  }
-</style>
-  </head>
-  <body>
-    <hr size="3" noshade>
-    <hr size="25"noshade>
-    <center>
-      <table>
-        <tr>
-          <td><h1>Graphic Designing and Online Lead Generation</h1></td>
-          <td><img src="logo.png" width="250" height="250" alt="Logo"></td>
-        </tr>
-      </table>
-    </center>
-      <table cellspacing='20'>
-          <p>
-        <tr>
-          <td>
-            <img src="me1.jpg" width="250" height="250" alt="Profile">
-          </td>
-        </tr>
-            <tr>
-           <td>
-              <h3>MY NAME IS ALI RAZA</h3>
-    </td>
-       </tr>
-        <tr>
-    <td>
-<h3>I AM EXPERT IN BOTH LEAD GENERATION AND GRAPHIC DESIGNING</h3>
-          </td>
-          </tr>
-          <tr>
-        <td>
-<h3>FEEL FREE TO CONTACT ME FOR LEAD GENERATION & GRAPHIC DESIGNING SERVICES</h3>
-</td>
-        </tr>
-        </p>
-      </table>
-    <h2>Skills And Experience:</h2>
-    <table cellspacing="15">
-      <thead>
-        <tr>
-         <h3> <th>Skill</th> </h3>
-        <h3>  <th>Experience</th> </h3>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><h3>Lead Generation</td> </h3>
-          <td><h3>⭐⭐⭐⭐⭐</td></h3>
-        </tr>
-        <tr>
-        <td><h3>Graphic Designing</td></h3>
-          <td><h3>⭐⭐⭐⭐⭐</td></h3>
-        </tr>
-      </tbody>
-    </table>
-    <h2>Our Designing Services With Example:</h2>
-    <table cellspacing="15">
-      <thead>
-        <tr>
-         <h3> <th>Work</th> </h3>
-        <h3>  <th>Sample</th> </h3>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><h3>Text Name Profile Designing:</3></td>
-          <td><h3><a href="name111.html">Sample</a></td></h3>
-        </tr>
-        <tr>
-        <td><h3>Business Cards Designing:</td></h3>
-          <td><h3><a href="card111.html">Sample</a></td></h3>
-        </tr>
-        <tr>
-         <td><h3>Postures Designing:</td></h3>
-         <td><h3><a href="post111.html">Sample</a></td></h3>
-        </tr>
-      </tbody>
-    </table>
-    <h2>Our Lead Generation Services With Example:</h2>
-    <table cellspacing="15">
-      <thead>
-        <tr>
-         <h3> <th>Work</th> </h3>
-        <h3>  <th>Sample</th> </h3>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><h3>Business Name to Business Size:</td> </h3>
-          <td><h3><a href="https://docs.google.com/spreadsheets/d/1d_0VhAnESVAtlFs1EgyePdzfQ7LriK32YuQjPDASRZ4/edit?usp=sharing">Sample</a></td></h3>
-        </tr>
-        <tr>
-        <td><h3>Business Name to Social Account:</td></h3>
-          <td><h3><a href="https://docs.google.com/spreadsheets/d/1JGLryBoud9lvUvaGl8FNtpOD9czZbJzaMW5D0ukZ1ss/edit?usp=sharing">Sample</a></td></h3>
-        </tr>
-        <tr>
-         <td><h3>Business Name to Worker Details:</td></h3>
-         <td><h3><a href="https://docs.google.com/spreadsheets/d/1ABZwhYe8AXjO251MLH5PNNWcg5K4mfqVUNzDk1pzBus/edit?usp=sharing">Sample</a></td></h3>
-        </tr>
-      </tbody>
-    </table>
-    <h2>Contact Me:</h2>
+<section id="contact">
+    <h2>Contact Me</h2>
+    <p>Ready to take your business to the next level? Get in touch!</p>
     <ul>
-      <li> <h3><a href="mailto:jamaliraza325@gmail.com">Email</a> </h3></li>
-      <li> <h3><a href="https://wa.me/923186791421">What's App</a> </h3></li>
+        <li>Email: <a href="mailto:jamaliraza325@gmail.com">jamaliraza325@gmail.com</a></li>
+        <li>WhatsApp: <a href="https://wa.me/923186791421">Contact Me</a></li>
     </ul>
-    <form action="mailto:jamaliraza325@gmail.com" method="post" enctype="text/plain">
-      <h2>Your Message:</h2>
-      <textarea name="" rows="10" cols="30"></textarea>
-      <br>
-      <input type="submit" value="Send Message">
-    </form>
-    <hr size="25" noshade>
-    <hr size="3" noshade>
-  </body>
+</section>
+
+<footer>
+    <p>&copy; 2023 Ali Raza. All rights reserved.</p>
+</footer>
+
+</body>
 </html>
