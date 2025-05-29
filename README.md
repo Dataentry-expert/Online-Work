@@ -144,7 +144,7 @@
     <center>
       <table>
         <tr>
-          <td><h1>Graphic Designing & Online Lead Generation</h1></td>
+          <td><h1>Graphic Designing and Online Lead Generation</h1></td>
           <td><img src="logo.png" width="250" height="250" alt="Logo"></td>
         </tr>
       </table>
