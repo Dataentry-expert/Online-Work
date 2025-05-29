@@ -144,7 +144,7 @@
     <center>
       <table>
         <tr>
-          <td><h1>Graphic Designing & Online Data Entry</h1></td>
+          <td><h1>Graphic Designing & Online Lead Generation</h1></td>
           <td><img src="logo.png" width="250" height="250" alt="Logo"></td>
         </tr>
       </table>
@@ -163,12 +163,12 @@
        </tr>
         <tr>
     <td>
-<h3>I AM EXPERT IN BOTH DATA ENTRY AND GRAPHIC DESIGNING</h3>
+<h3>I AM EXPERT IN BOTH LEAD GENERATION AND GRAPHIC DESIGNING</h3>
           </td>
           </tr>
           <tr>
         <td>
-<h3>FEEL FREE TO CONTACT ME FOR DATA ENTRY & GRAPHIC DESIGNING SERVICES</h3>
+<h3>FEEL FREE TO CONTACT ME FOR LEAD GENERATION & GRAPHIC DESIGNING SERVICES</h3>
 </td>
         </tr>
         </p>
@@ -183,7 +183,7 @@
       </thead>
       <tbody>
         <tr>
-          <td><h3>Data Entry</td> </h3>
+          <td><h3>Lead Generation</td> </h3>
           <td><h3>⭐⭐⭐⭐⭐</td></h3>
         </tr>
         <tr>
@@ -215,7 +215,7 @@
         </tr>
       </tbody>
     </table>
-    <h2>Our Data Entry Services With Example:</h2>
+    <h2>Our Lead Generation Services With Example:</h2>
     <table cellspacing="15">
       <thead>
         <tr>
