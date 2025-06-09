@@ -112,6 +112,7 @@
         <a href="#services">Services</a>
         <a href="#testimonials">Testimonials</a>
         <a href="#contact">Contact</a>
+        <a href="#Sample">Contact</a>
     </nav>
 </header>
 
@@ -162,6 +163,16 @@
     <ul>
         <li>Email: <a href="mailto:jamaliraza325@gmail.com">jamaliraza325@gmail.com</a></li>
         <li>WhatsApp: <a href="https://wa.me/923186791421">Contact Me</a></li>
+    </ul>
+</section>
+
+<section id="Sample">
+    <h2>Sample</h2>
+    <p>Kindly review all the provided samples—they will help you quickly and confidently decide to hire me for your project, without any hesitation or wasted time.</p>
+    <ul>
+        <li>Sample: <a href="mailto:jamaliraza325@gmail.com">Sample 1</a></li>
+        <li>Sample: <a href="https://wa.me/923186791421">Sample 2</a></li>
+        <li>Sample: <a href="https://wa.me/923186791421">Sample 3</a></li>
     </ul>
 </section>
 
