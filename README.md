@@ -126,15 +126,16 @@
     <div class="services">
         <div class="service">
             <h3>Lead Generation</h3>
-            <p>High-quality leads tailored to your business needs.</p>
+            <p>I provide targeted business lead details, including company name, website, contact person (Owner, Founder, Manager), email, phone number, LinkedIn profile, industry, and location.
+</p>
+        </div>
+        <div class="service">
+            <h3>Personal or Client Detail Finding</h3>
+            <p>Scraping targeted business lead details, including titles like Owner, Founder, and Manager, along with industry and location data.</p>
         </div>
         <div class="service">
             <h3>Market Research</h3>
-            <p>In-depth analysis to target the right audience.</p>
-        </div>
-        <div class="service">
-            <h3>Consulting</h3>
-            <p>Expert advice to optimize your lead generation strategy.</p>
+            <p></p>
         </div>
     </div>
 </section>
