@@ -126,16 +126,16 @@
     <div class="services">
         <div class="service">
             <h3>Lead Generation</h3>
-            <p>I provide targeted business lead details, including company name, website, contact person (Owner, Founder, Manager), email, phone number, LinkedIn profile, industry, and location.
+            <p>I provide targeted business lead details, including company name, website, contact person (Owner, Founder, Manager), email, phone number, LinkedIn profile, industry, and location
 </p>
         </div>
         <div class="service">
             <h3>Personal or Client Detail Finding</h3>
-            <p>Scraping targeted business lead details, including titles like Owner, Founder, and Manager, along with industry and location data.</p>
+            <p>Scraping targeted business lead details, including titles like Owner, Founder, and Manager, along with industry and location data</p>
         </div>
         <div class="service">
             <h3>Market Research</h3>
-            <p></p>
+            <p>Expert in market research using different methods like Google Maps, LinkedIn, Google search, and tools such as Apollo, ContactOut, Email Hunter, and various scraper tools</p>
         </div>
     </div>
 </section>
