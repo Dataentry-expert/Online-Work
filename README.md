@@ -110,9 +110,9 @@
     <h1>Ali Raza - Lead Generation Expert</h1>
     <nav>
         <a href="#services">Services</a>
-        <a href="#testimonials">Testimonials</a>
+        <a href="#testimonials">Clients Reviews</a>
         <a href="#contact">Contact</a>
-        <a href="#Sample">Contact</a>
+        <a href="#Sample">Samples</a>
     </nav>
 </header>
 
