@@ -118,7 +118,7 @@
 
 <section id="about">
     <h2>About Me</h2>
-    <p>I am Ali Raza, a dedicated lead generation expert with years of experience in helping businesses grow. I specialize in tailored strategies that deliver results.</p>
+    <p>My name is Ali Raza,I'm a dedicated lead generation expert with years of experience in helping businesses grow. I specialize in tailored strategies that deliver results.</p>
 </section>
 
 <section id="services">
@@ -143,16 +143,18 @@
     <h2>What Clients Say</h2>
     <div class="testimonials">
         <div class="testimonial">
-            <p>"Ali's lead generation strategies have transformed our sales process!"</p>
             <strong>- Client A</strong>
+            <p>"Thank you for providing quality real estate leads.Each one was well targeted and relevant.Your support is helping us connect with serious buyers and grow our business."</p>
+        </div>
+        <strong>- Client B</strong>
+        <div class="testimonial">
+            <p>"We truly appreciate the targeted Google map leads you've provided. They've made a real difference in helping us engage with serious clients and expand our market presence"</p>
         </div>
         <div class="testimonial">
-            <p>"We've seen a significant increase in qualified leads since working with Ali."</p>
-            <strong>- Client B</strong>
-        </div>
-        <div class="testimonial">
-            <p>"Professional and results-driven. Highly recommend!"</p>
             <strong>- Client C</strong>
+            <p>"Your efforts in supplying well qualified Linkedin leads have been instrumental to our success. Thanks to your support, we're seeing steady growth and stronger buyer interest.
+
+"</p>
         </div>
     </div>
 </section>
