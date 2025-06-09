@@ -107,7 +107,7 @@
 <body>
 
 <header>
-    <h1>Ali Raza - Lead Generation Expert</h1>
+    <h1>Sadia Ali - Lead Generation Expert</h1>
     <nav>
         <a href="#services">Services</a>
         <a href="#testimonials">Clients Reviews</a>
@@ -118,7 +118,7 @@
 
 <section id="about">
     <h2>About Me</h2>
-    <p>My name is Ali Raza,I'm a dedicated lead generation expert with years of experience in helping businesses grow. I specialize in tailored strategies that deliver results.</p>
+    <p>My name is Sadia Ali – I'm a lead generation expert with proven success on LinkedIn. I’m now starting fresh on Upwork and Fiverr, where I’ve already earned my first 5-star review and received the Rising Talent badge. I specialize in Google Maps scraping, LinkedIn outreach, data scraping, and real estate lead generation. I offer fast delivery, affordable pricing, and 24/7 availability. Let’s grow your business together.</p>
 </section>
 
 <section id="services">
@@ -163,7 +163,7 @@
     <h2>Contact Me</h2>
     <p>Ready to take your business to the next level? Get in touch!</p>
     <ul>
-        <li>Email: <a href="mailto:jamaliraza325@gmail.com">jamaliraza325@gmail.com</a></li>
+        <li>Email: <a href="mailto:onlinefreelancer559@gmail.com">jamaliraza325@gmail.com</a></li>
         <li>WhatsApp: <a href="https://wa.me/923186791421">Contact Me</a></li>
     </ul>
 </section>
@@ -179,7 +179,7 @@
 </section>
 
 <footer>
-    <p>&copy; 2023 Ali Raza. All rights reserved.</p>
+    <p>&copy; 2023 Sadia ali. All rights reserved.</p>
 </footer>
 
 </body>
