@@ -174,7 +174,7 @@
     <ul>
         <li>Business Name to Business Size: <a href="https://docs.google.com/spreadsheets/d/1d_0VhAnESVAtlFs1EgyePdzfQ7LriK32YuQjPDASRZ4/edit?usp=sharing">Sample 1</a></li>
         <li>Business Name to Social Account: <a href="https://docs.google.com/spreadsheets/d/1JGLryBoud9lvUvaGl8FNtpOD9czZbJzaMW5D0ukZ1ss/edit?usp=sharing">Sample 2</a></li>
-        <li>Business Name to Worker Details: <a href="https://docs.google.com/spreadsheets/d/1ABZwhYe8AXjO251MLH5PNNWcg5K4mfqVUNzDk1pzBus/edit?usp=sharing">Sample 3</a></li>
+        <li>Titles Owner,CEO,Manager,Founder etc Personal Linkedin Link, Email, Number: <a href="https://docs.google.com/spreadsheets/d/1ABZwhYe8AXjO251MLH5PNNWcg5K4mfqVUNzDk1pzBus/edit?usp=sharing">Sample 3</a></li>
     </ul>
 </section>
 
