@@ -147,8 +147,8 @@
             <strong>- Client A</strong>
             <p>"Thank you for providing quality real estate leads.Each one was well targeted and relevant.Your support is helping us connect with serious buyers and grow our business."</p>
         </div>
-        <strong>- Client B</strong>
         <div class="testimonial">
+            <strong>- Client B</strong>
             <p>"We truly appreciate the targeted Google map leads you've provided. They've made a real difference in helping us engage with serious clients and expand our market presence"</p>
         </div>
         <div class="testimonial">
@@ -164,7 +164,7 @@
     <h2>Contact Me</h2>
     <p>Ready to take your business to the next level? Get in touch!</p>
     <ul>
-        <li>Email: <a href="mailto:onlinefreelancer559@gmail.com">jamaliraza325@gmail.com</a></li>
+        <li>Email: <a href="mailto:onlinefreelancer559@gmail.com">onlinefreelancer559@gmail.com</a></li>
         <li>WhatsApp: <a href="https://wa.me/923186791421">Contact Me</a></li>
     </ul>
 </section>
